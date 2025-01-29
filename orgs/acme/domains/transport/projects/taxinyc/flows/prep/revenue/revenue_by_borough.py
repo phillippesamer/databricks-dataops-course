@@ -30,6 +30,15 @@ print("New db name: " + db)
 spark.sql(f"USE catalog {cat}")
 spark.sql(f"CREATE DATABASE IF NOT EXISTS {db}")
 
+
+# COMMAND ----------
+
+cat
+
+# COMMAND ----------
+
+
+
 # COMMAND ----------
 
 # MAGIC %md

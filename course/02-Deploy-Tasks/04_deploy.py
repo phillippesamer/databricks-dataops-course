@@ -47,7 +47,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Job is the recipe, job run is following the recipe through to the end result (or stopping in the way, if something goes wrong).
 
 # COMMAND ----------
 
@@ -60,4 +60,4 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC Answer here...
+# MAGIC Concatenating the Catalog name and Unit Catalog name.
